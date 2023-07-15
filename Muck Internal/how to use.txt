@@ -1,0 +1,5 @@
+open muck
+run the run.bat file
+press enter in console
+go back into game and press INSERT
+enjoy!
