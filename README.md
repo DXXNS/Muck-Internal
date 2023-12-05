@@ -1,6 +1,29 @@
-# Muck Internal Pasted by DXXNS
+# Muck CheatMenu
+Status: ![Working](https://img.shields.io/badge/Status-Working-brightgreen)
+This Cheat is a Muck cheat menu coded in C# that allows you to:
+- Spawn Items
+- God Mode
+- Inf Stamina
+- Inf Food
+- Break Some/All
+- Kill Some/All
 
-![Working](https://img.shields.io/badge/Status-Working-brightgreen)
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+
+
+
+
+##Installation
+
+Inject the given DLL using a Mono Injector.
+For easy use download the Free Muck loader(Link)
+
+
+
+
 
 ![Menu](https://i.imgur.com/KryFzS5.png)
 
