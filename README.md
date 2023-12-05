@@ -22,7 +22,9 @@ Inject the given DLL using a Mono Injector.
 For easy use download the Free Muck loader(Link)
 
 
+##Usage
 
+Press Insert on your Keyboard to open/close the Menu
 
 
 ![Menu](https://i.imgur.com/KryFzS5.png)
