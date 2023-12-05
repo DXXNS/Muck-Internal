@@ -1,11 +1,12 @@
 # Muck CheatMenu
+
 ![Working](https://img.shields.io/badge/Status-Working-brightgreen)
 
-This Cheat is a Muck cheat menu coded in C# that allows you to:
+This CheatMenu is a Muck cheat menu coded in C# that provides the following features:
 - Spawn Items
 - God Mode
-- Inf Stamina
-- Inf Food
+- Infinite Stamina
+- Infinite Food
 - Break Some/All
 - Kill Some/All
 
@@ -13,21 +14,23 @@ This Cheat is a Muck cheat menu coded in C# that allows you to:
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 
+## Installation
 
+To install the Muck CheatMenu, follow these steps:
 
+1. Inject the provided DLL using a Mono Injector.
+2. For easy use, download the Free Muck loader (Link).
 
-##Installation
+## Usage
 
-Inject the given DLL using a Mono Injector.
-For easy use download the Free Muck loader(Link)
+Press `Insert` on your keyboard to open/close the menu.
 
+## Screenshots
 
-##Usage
-
-Press Insert on your Keyboard to open/close the Menu
-
-
+### Menu
 ![Menu](https://i.imgur.com/KryFzS5.png)
 
+### Ingame
 ![Ingame](https://i.imgur.com/fuaAR7M.png)
