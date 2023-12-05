@@ -1,5 +1,5 @@
 # Muck CheatMenu
-Status: ![Working](https://img.shields.io/badge/Status-Working-brightgreen)
+![Working](https://img.shields.io/badge/Status-Working-brightgreen)
 This Cheat is a Muck cheat menu coded in C# that allows you to:
 - Spawn Items
 - God Mode
