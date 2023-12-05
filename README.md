@@ -1,8 +1,7 @@
-## **Muck Internal Pasted by DXXNS**
+# Muck Internal Pasted by DXXNS
 
-Status: Check on Website
-![Menu
-](https://i.imgur.com/KryFzS5.png)
+Status: ![Working](https://img.shields.io/badge/Status-Working-brightgreen)
 
-![Ingame
-](https://i.imgur.com/fuaAR7M.png)
+![Menu](https://i.imgur.com/KryFzS5.png)
+
+![Ingame](https://i.imgur.com/fuaAR7M.png)
