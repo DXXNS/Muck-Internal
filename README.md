@@ -1,6 +1,6 @@
 # Muck Internal Pasted by DXXNS
 
-Status: ![Working](https://img.shields.io/badge/Status-Working-brightgreen)
+![Working](https://img.shields.io/badge/Status-Working-brightgreen)
 
 ![Menu](https://i.imgur.com/KryFzS5.png)
 
